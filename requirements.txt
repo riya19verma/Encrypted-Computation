@@ -1,0 +1,6 @@
+phe==1.5.0
+numpy
+pandas
+scikit-learn
+phe==1.5.0
+

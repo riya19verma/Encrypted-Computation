@@ -21,6 +21,7 @@ This project focuses on **encrypted inference**, not encrypted training.
 ---
 
 ## Project Structure
+
 ├── diabetes.csv # Diabetes dataset
 ├── LinearRegression.py # Encrypted inference PoC (main script)
 ├── paillier_demo.py # Basic Paillier homomorphic operations demo
@@ -41,3 +42,4 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 #
+
